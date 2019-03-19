@@ -402,4 +402,5 @@ int main(){
 	  	Destroy(L2);
 	}
 	Destroy(L1);
+	return 0; 
 }
