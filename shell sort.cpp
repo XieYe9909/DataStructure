@@ -26,4 +26,5 @@ int main(){
 	for(i=1;i<=n;i++) scanf("%d",&r[i]);
 	for(i=0;i<m;i++) scanf("%d",&incr[i]);
 	ShlSort(n,m);
+	return 0; 
 }
